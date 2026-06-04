@@ -4,8 +4,8 @@
 - I’m currently learning: integration of AI-PMX applications. 
    > future: development of trial design and process efficiency using AI
 - I’m looking to collaborate: medical field clinicians in practice and research, with priority interests: 
-   > automation in data collection
-   > translational medicine in pharmacology
+   > automation in data collection,
+   > translational medicine in pharmacology, and
    > personalized medicine through quanitative methods
 
 - How to reach me: christopherbanker1@gmail.com
