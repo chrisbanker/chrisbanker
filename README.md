@@ -5,8 +5,8 @@
    > future: development of trial design and process efficiency using AI
 - I’m looking to collaborate: medical field clinicians in practice and research, with priority interests: 
    > automation in data collection,
-   > \ntranslational medicine in pharmacology, and
-   > \npersonalized medicine through quanitative methods
+   > /ntranslational medicine in pharmacology, and
+   > /npersonalized medicine through quanitative methods
 
 - How to reach me: christopherbanker1@gmail.com
 
