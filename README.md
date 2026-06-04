@@ -4,9 +4,9 @@
 - I’m currently learning: integration of AI-PMX applications. 
    > future: development of trial design and process efficiency using AI
 - I’m looking to collaborate: medical field clinicians in practice and research, with priority interests: 
-   > automation in data collection,
+   > automation in data collection
 
-   > translational medicine in pharmacology, and
+   > translational medicine in pharmacology
 
    > personalized medicine through quanitative methods
 
