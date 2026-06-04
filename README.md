@@ -1,8 +1,14 @@
                [ @chrisbanker ] -> christopher banker, pharmd -- industry (drug development) pharmacologist      
-- 👀 I’m interested in: drug development through statistical analysis of clinical data. development of pkpd models, nca as needed with clinical interpretation
-- 🌱 I’m currently learning: NN and integration of AI - hobbyist
-- 💞️ I’m looking to collaborate on: self-learning repositories of open-source AI and NN models
-- 📫 How to reach me: christopherbanker1@gmail.com
+- I work in: drug development C & Q pharmacology - clinical data analysis. 
+   > pkpd modeling and clinical interpretation of data
+- I’m currently learning: integration of AI-PMX applications. 
+   > future: development of trial design and process efficiency using AI
+- I’m looking to collaborate: medical field clinicians in practice and research, with priority interests: 
+   > automation in data collection
+   > translational medicine in pharmacology
+   > personalized medicine through quanitative methods
+
+- How to reach me: christopherbanker1@gmail.com
 
 
 <!---
