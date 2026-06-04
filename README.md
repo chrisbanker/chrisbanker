@@ -1,7 +1,7 @@
                [ @chrisbanker ] -> christopher banker, pharmd -- industry (drug development) pharmacologist      
 - I work in: drug development C & Q pharmacology - clinical data analysis. 
    > pkpd modeling and clinical interpretation of data
-- I’m currently learning: integration of AI-PMX applications. 
+- I’m currently learning: integration & validation of AI-PMX applications. 
    > future: development of trial design and process efficiency using AI
 - I’m looking to collaborate: medical field clinicians in practice and research, with priority interests: 
    > automation in data collection
